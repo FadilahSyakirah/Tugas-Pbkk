@@ -1,0 +1,8 @@
+Konsep OOP (Object-Oriented Programming) adalah paradigma pemrograman yang berfokus pada penggunaan objek sebagai elemen utama dalam pengembangan perangkat lunak
+OOP (Object Oriented Programming) yang dalam bahasa Indonesia artinya Pemrograman Berbasis Objek (PBO) adalah sebuah konsep dimana Property / Variable dan juga Method / Fungsi di bungkus dalam sebuah Class.
+Berikut adalah beberapa konsep OOP pada PHP:
+
+Class (Kelas):
+Class adalah blueprint atau cetak biru yang digunakan untuk membuat objek. Dalam PHP, Anda mendefinisikan class dengan menggunakan kata kunci "class".
+Objek:
+Objek adalah instance (instansi) dari sebuah class. Anda dapat membuat objek dari class dengan menggunakan kata kunci "new".
